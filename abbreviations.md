@@ -7,6 +7,7 @@
 | BBBWL  | Beaglebone Black Wireless
 | BHI    | Boot Host Interface
 | BIOS   | Basic Input/Output System
+| BSP    | board support package
 | CAN    | Controller Area Network
 | DDR    | Double Data Rate
 | eCAP   | Enhanced Capture
