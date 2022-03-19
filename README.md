@@ -4,3 +4,4 @@ Beaglebone Black directions
 This will mostly be links to other sites.
 
 [Abbreviations](abbreviations.md)
+[Startup directions](startup.md)
