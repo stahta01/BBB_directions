@@ -7,4 +7,6 @@ This will mostly be links to other sites.
 
 [Startup directions](startup.md)
 
+[Upgrade directions](upgrade.md)
+
 [Build custom image directions](build_custom_image.md)
