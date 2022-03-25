@@ -10,3 +10,5 @@ This will mostly be links to other sites.
 [Upgrade directions](upgrade.md)
 
 [Build custom image directions](build_custom_image.md)
+
+[Prototype cape directions](https://github.com/stahta01/BBB_directions_prototype_cape)
